@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfilFragment"
+    android:background="@drawable/orang">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:textSize="40dp"
+        android:text="Profil"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="380dp"
+        android:layout_gravity="center"
+        android:src="@color/coklatpas"
+        android:alpha="0.3"/>
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:justificationMode="inter_word"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Kami adalah mahasiswa tahun kedua di Universitas Tadulako Palu, aplikasi berbasis android ini kami buat pada tanggal 20 November 2022, dengan tujuan untuk menuntaskan tugas evaluasi dari praktikum pemrograman mobile. Kami beranggotakan 4 orang yaitu, Aulia Intan Prasasti, Indri Naftaly Mangkawa, Naufal Syafiq Hambali, dan seorang mahasiswa pertukaran pelajar dari semarang, Fitradana Putra"/>
+
+
+</FrameLayout>

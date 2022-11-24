@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HomeFragment"
+    android:background="@drawable/bg">
+
+    <ImageView
+        android:layout_width="410dp"
+        android:layout_height="100dp"
+        android:src="@color/bluepas"
+        android:alpha="0.5"
+        app:cardCornerRadius="15dp"/>
+    <TextView
+        android:id="@+id/klp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="80dp"
+        android:text="PILIHAN MENU"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="50dp"
+        android:src="@drawable/dry"
+        app:cardCornerRadius="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:text="DRY AND CLEANING"
+        android:layout_marginTop="300dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="250dp"
+        android:src="@drawable/basah"
+        app:cardCornerRadius="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="260dp"
+        android:text="CUCI BASAH"
+        android:layout_marginTop="300dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="50dp"
+        android:src="@drawable/setrika"
+        app:cardCornerRadius="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:text="SETRIKA"
+        android:layout_marginTop="500dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <ImageView
+    android:layout_width="100dp"
+    android:layout_height="80dp"
+    android:layout_marginTop="400dp"
+    android:layout_marginLeft="250dp"
+    android:src="@drawable/premium"
+    app:cardCornerRadius="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:text="PREMIUM WASH"
+        android:layout_marginTop="500dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+</FrameLayout>

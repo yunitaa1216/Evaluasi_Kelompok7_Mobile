@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Evaluasi_Kelompok7_Mobile</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="movie_title">
+        <item>One Piece: Film Red</item>
+        <item>One Piece: Stampede</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Spiderman: Miles Morales</item>
+        <item>Avenger: End Game</item>
+        <item>John Wick 3</item>
+    </string-array>
+
+    <string-array name="movie_desc">
+        <item>One Piece Film: Red menceritakan Luffy, seorang Bajak Laut Topi Jerami yang pergi ke sebuah festival musik.
+            Festival tersebut terletak di Pulau Musik Elegia yang menjadi lokasi konser diva terbesar di dunia bernama Uta.
+            Acara itu akan menjadi awal pertemuan Luffy dengan Uta. Hingga akhirnya terungkap fakta mengejutkan bahwa Uta adalah anak Shanks, sosok kepala bajak laut rambut merah yang menjadi inspirasi Luffy.
+            Fakta itu pun membuat semua orang terkejut karena Shanks menghilang secara misterius.
+            One Piece Film: Red bakal mengulik kisah Shanks secara lebih mendalam. Sisi lain kehidupan Shanks akan banyak disorot oleh film.
+            Tak hanya itu, Uta sebagai putri Shanks juga bakal ditampilkan sebagai pemeran utama dalam anime tersebut.
+        </item>
+        <item>Film One Piece, yang diadaptasi dari komik karya Eiichiro Oda, kembali hadir pada 2019 dengan judul One Piece: Stampede. Dirilis sebagai film keempat belas One Piece, film ini menjadi film One Piece tersukses secara komersial,
+            bahkan melampaui film sebelumnya: One Piece: Gold. One Piece: Stampede mengisahkan kru Topi Jerami dan para bajak laut yang mengikuti festival bajak laut yang diselenggarakan Buena Festa. Harta yang dijanjikan pun ialah harta peninggalan raja bajak laut, Gol D. Roger. Bukan hanya itu saja, Douglas Bullet,
+            mantan kru Roger yang dijuluki sebagai pewaris iblis ikut dalam perebutan harta Roger.
+        </item>
+        <item> Black Panther: Wakanda Forever merupakan sekuel kedua film Black Panther yang rilis pada 2018. Black Panther 2 mengisahkan kelanjutan kehidupan Wakanda usai ditinggalkan oleh sang Raja TChalla aka Black Panther. Di tengah kesedihan yang melanda, negeri Wakanda kembali dihujani serangan musuh. Para ksatria bahu-membahu berusaha mempertahankan keutuhan wilayah dan melindunginya dari
+            campur tangan dunia luar. Diketahui, film Black Panther: Wakanda Forever adalah salah satu bentuk penghormatan atas kematian sang aktor utama, Chadwick Boseman. Black Panther 2 menambah deretan film superhero Marvel Studio, sekaligus mengakhiri Fase Empat MCU.
+        </item>
+        <item>Miles Morales adalah seorang pelajar di Brooklyn yang mengagumi Spider-Man. Namun ayahnya yang bekerja sebagai polisi justru tidak bisa memahami Spider-Man yang bergelantungan ke sana ke mari.
+        Sebagai remaja yang memasuki pubertas, Miles merasa risih oleh teman-temannya yang menganggap dia anak manja karena masih diantar ayah ke sekolah. Oleh karena itu, Miles lebih suka pergi ke sekolah dengan berjalan kaki. Digigit Laba-Laba Radioaktif
+        Dalam sinopsis Spider-Man Into The Spider Verse, Miles Morales digigit oleh laba-laba radioaktif.
+            Hidupnya langsung berubah, tubuhnya menjadi lebih tinggi, dan ia memiliki sensitivitas yang jauh di atas manusia rata-rata. Ia panik karena tidak bisa mengendalikan kekuatannya.
+        </item>
+        <item>Setelah peristiwa yang membabi buta dari ‘Avengers: Infinity War’ (2018) alam semesta hancur, khususnya Bumi akibat ulah Thanos. Dengan pasukan yang tersisa, Avengers harus bertahan dan berkumpul sekali lagi demi menghentikan upaya Thanos mengurangi setengah populasi dunia.
+        Pahlawan Avengers yang tersisa seperti Captain America, Iron Man, Black Widow, Hulk, Hawkeye, dan Thor bahkan kehadiran Captain Marvel akan menjadikan game changer untuk menghadapi villain utama dari film ini, yaitu Thanos.
+        Demi mengembalikan keteraturan alam semesta seperti semula, Steve Rogers dan kawan-kawan dituntut untuk mengolah akal pikir mereka untuk memperbaiki apa yang sudah dan ingin dihancurkan Thanos.
+        </item>
+        <item>Seorang pembunuh bayaran bernama John Wick dihadapkan dengan banyak penjahat kelas kakap yang bersaing untuk membunuhnya. Setiap detik dalam hidupnya, John tidak pernah merasa tenang.
+            Hal ini karena John merasa selalu diawasi oleh para penjahat yang ingin membunuhnya. Ditambah lagi dalam sekuel ini, John diumumkan menjadi Excommunicado, yaitu kepalanya diberi harga sebesar 14 juta dolar AS.
+            Hal ini masih berkaitan dengan cerita dalam sekuel sebelumnya. Dalam sekuel sebelumnya, John melanggar peraturan yang telah disepakati bersama oleh para pembunuh bayaran.
+            Peraturan tersebut adalah dilarang untuk menjalankan aksi pembunuhan di atas lahan Continental Hotel. Sementara saat itu, John justru membunuh dengan target petinggi dari High Table yaitu Santino D’Antonio.
+            John sadar kalau tindakannya ini akan membahayakan nyawanya. Akan tetapi, dia tetap menjalankan misinya tersebut. Karena hal itu, John menjadi Excommunicado. Status tersebut seperti menjadi undangan terbuka untuk para pembunuh bayaran.
+            Siapapun yang bisa membunuh John, akan mendapatkan hadiah yang telah disepakati sebelumnya. Hal ini memaksa John untuk melarikan diri ke New York. Kemudian, John beruntung karena berjumpa dengan teman baru yang juga pembunuh bayaran dan masih mempercayai John bernama Sofia.
+            Namun, tanpa diduga Sofia justru berbuat sesuatu yang membahayakan nyawa John. Padahal sebelumnya John sangat percaya pada Sofia.
+        </item>
+    </string-array>
+
+    <array name="movie_poster">
+        <item>@drawable/gg</item>
+        <item>@drawable/gg</item>
+        <item>@drawable/gg</item>
+        <item>@drawable/gg</item>
+        <item>@drawable/gg</item>
+        <item>@drawable/gg</item>
+    </array>
+</resources>
